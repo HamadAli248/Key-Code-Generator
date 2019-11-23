@@ -1,0 +1,55 @@
+body{
+    background:RGB(2,3,36);
+    background: linear-gradient(90deg,rgba(2,0,36,1)0%,rgba(19,19,220,1)22%,rgba(47,80,132,1)53%,rgba(79,174,73,1)83%);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1{
+    color: cornsilk;
+    font-size: 130px;
+    text-align: center;
+    margin-bottom:1% ;
+}
+
+h2 {
+    color: burlywood;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+h3{
+    margin-top: 1%;
+    font-size: 80px;
+    margin-bottom: 2%;
+    color: rgb(255, 0, 0)
+}
+
+#maindiv {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+p {
+    margin-top:2%;
+    font-size: 60px;
+    color: darksalmon;
+}
+
+#key{
+     border-style: dotted;
+     border-color:white;
+}
+#code{
+    border-style: dotted;
+    border-color:white;
+}
+#which{
+    border-style: dotted;
+    border-color:white;
+}
+
